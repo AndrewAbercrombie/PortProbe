@@ -1,18 +1,22 @@
 # PortProbe
 
 ## Table of Contents
-
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](#Contributing)
+  * [Getting Started](#getting-started)
+  * [Usage](#usage)
+    + [Scan single port](#scan-single-port)
+    + [Function Paramaters](#function-paramaters)
+    + [Scan common ports](#scan-common-ports)
+    + [Function Paramaters](#function-paramaters-1)
+- [Contributing](#contributing)
 
-# About <a name = "about"></a>
+
+# About
 
 PortProbe is a very easy to use port scanning NPM module that is lightweight.
 
 
-## Installing
+## Getting Started
 
 This is how you could add PortProbe to your existing project.
 
@@ -29,7 +33,7 @@ const PortProbe = require('portprobe');
 ```
 
 
-## Usage <a name = "usage"></a>
+## Usage 
 
 ### Scan single port
 
