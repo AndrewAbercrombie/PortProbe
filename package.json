@@ -1,6 +1,6 @@
 {
   "name": "portprobe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple portscanning NPM library",
   "main": "index.js",
   "scripts": {
