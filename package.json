@@ -1,0 +1,24 @@
+{
+  "name": "portprobe",
+  "version": "1.0.0",
+  "description": "Simple portscanning NPM library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewAbercrombie/PortProbe.git"
+  },
+  "keywords": [
+    "port-scan",
+    "port",
+    "scan"
+  ],
+  "author": "Andrew Abercrombie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewAbercrombie/PortProbe/issues"
+  },
+  "homepage": "https://github.com/AndrewAbercrombie/PortProbe#readme"
+}
