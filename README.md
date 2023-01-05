@@ -5,9 +5,9 @@
   * [Getting Started](#getting-started)
   * [Usage](#usage)
     + [Scan single port](#scan-single-port)
-    + [Function Paramaters](#function-paramaters)
+      - [Function Paramaters](#function-paramaters)
     + [Scan common ports](#scan-common-ports)
-    + [Function Paramaters](#function-paramaters-1)
+      - [Function Paramaters](#function-paramaters-1)
 - [Contributing](#contributing)
 
 
